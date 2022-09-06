@@ -16,9 +16,8 @@
 
 **Mobile:** 
 <div style=" display:flex; gap:5px">
-<code><img align="left" src="https://img.shields.io/badge/Flutter-black?style=plastic&logo=flutter&logoColor=1389FD" height=30></code>
-
-<code>[<img align="left" src="https://img.shields.io/badge/React%20Native-black?style=plastic&logo=react" height=30>](https://reactnative.dev/)</code>
+<code><img alt='flutter' src="https://img.shields.io/badge/Flutter-black?style=plastic&logo=flutter&logoColor=1389FD" height=30></code>
+<code><img alt='reactnative'  src="https://img.shields.io/badge/React%20Native-black?style=plastic&logo=react" height=30></code>
 </div>
 <br />
 
@@ -47,6 +46,9 @@
 <code><img height="30" alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img height="30" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></code>
 <code><img height="30" alt="sqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></code>
+<code><img height="30" alt="tidb" src="https://github.com/pingcap/tidb/raw/master/docs/logo_with_text.png"></code>
+
+
 
 </div>
 <br />
