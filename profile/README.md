@@ -67,7 +67,7 @@
 
 ## Location
 
-[Find Me](https://g.page/rara-labs?share)
+[![image](https://user-images.githubusercontent.com/31175326/188585276-caa7eb8a-153f-4c95-b46f-90464c727818.png)](https://g.page/rara-labs?share)
 <br />
 
 ## Authors
@@ -75,4 +75,4 @@
 - [@prasid444](https://www.github.com/prasid444)
 - [@SushanShakya](https://www.github.com/SushanShakya)
 - [@bytesagar](https://www.github.com/bytesagar)
-
+- [@kcaashish](https://www.github.com/kcaashish)
