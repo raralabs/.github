@@ -23,6 +23,7 @@
 
 
 
+
 **Backend:** 
 <div>
 <img height="30" alt="golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
@@ -42,7 +43,7 @@
 <br />
 
 **Database:**  
-<div>
+<div style="display:flex;gap:10px">
 <img height="30" alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img height="30" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 <img height="30" alt="sqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
@@ -54,7 +55,7 @@
 <br />
 
 **Technologies:**  
-<div>
+<div style="display:flex;gap:10px">
 <img height="30" alt="graphql" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
 <img height="30" alt="nx" src="https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white">
 
