@@ -12,6 +12,7 @@
 [<img align="left" src="https://img.shields.io/badge/Flutter-black?style=plastic&logo=flutter&logoColor=1389FD" height=40>](https://flutter.dev/)
 <span></span>
 [<img align="left" src="https://img.shields.io/badge/React%20Native-black?style=plastic&logo=react" height=40>](https://reactnative.dev/)
+<span></span>
 
 **Backend:** 
 - Python
