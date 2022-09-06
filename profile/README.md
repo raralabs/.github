@@ -5,7 +5,7 @@
 ## Tech Stack
 
 **Web:** 
-<div>
+<div style="display:flex;gap:10px">
 <img height="30" alt="react" src="https://badges.aleen42.com/src/react.svg">
 <img height="30" alt="typescript" src="https://badges.aleen42.com/src/typescript.svg">
 <img height="30" src="https://badges.aleen42.com/src/vitejs.svg">
@@ -15,7 +15,7 @@
 
 
 **Mobile:** 
-<div style=" display:flex; gap:5px">
+<div style="display:flex;gap:10px">
 <img alt='flutter' src="https://img.shields.io/badge/Flutter-black?style=plastic&logo=flutter&logoColor=1389FD" height=30>
 <img alt='reactnative'  src="https://img.shields.io/badge/React%20Native-black?style=plastic&logo=react" height=30>
 </div>
@@ -25,7 +25,7 @@
 
 
 **Backend:** 
-<div>
+<div style="display:flex;gap:10px">
 <img height="30" alt="golang" src="https://badges.aleen42.com/src/golang.svg">
 <img height="30" alt="python" src="https://badges.aleen42.com/src/python.svg">
 <img height="30" alt="dot net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
@@ -34,7 +34,7 @@
 
 
 **DevOps:**  
-<div>
+<div style="display:flex;gap:10px">
 <img height="30" alt="docker" src="https://badges.aleen42.com/src/docker.svg">
 <img height="30" alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
 <img height="30" alt="jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
@@ -43,7 +43,7 @@
 <br />
 
 **Database:**  
-<div>
+<div style="display:flex;gap:10px">
 <img height="30" alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img height="30" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 <img height="30" alt="sqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
@@ -55,7 +55,7 @@
 <br />
 
 **Technologies:**  
-<div>
+<div style="display:flex;gap:10px">
 <img height="30" alt="graphql" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
 <img height="30" alt="nx" src="https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white">
 
