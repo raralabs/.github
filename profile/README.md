@@ -6,9 +6,9 @@
 
 **Web:** 
 <div>
-<img height="30" alt="react" src="https://badges.aleen42.com/src/react.svg">
-<img height="30" alt="typescript" src="https://badges.aleen42.com/src/typescript.svg">
-<img height="30" src="https://badges.aleen42.com/src/vitejs.svg">
+<img height="30" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img height="30" alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+<img height="30" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
 <img height="30" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" >
 </div>
 <br />
@@ -16,8 +16,8 @@
 
 **Mobile:** 
 <div style=" display:flex; gap:5px">
-<img alt='flutter' src="https://img.shields.io/badge/Flutter-black?style=plastic&logo=flutter&logoColor=1389FD" height=30>
-<img alt='reactnative'  src="https://img.shields.io/badge/React%20Native-black?style=plastic&logo=react" height=30>
+<img alt='flutter' src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height=30>
+<img alt='reactnative'  src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height=30>
 </div>
 <br />
 
@@ -25,8 +25,8 @@
 
 **Backend:** 
 <div>
-<img height="30" alt="golang" src="https://badges.aleen42.com/src/golang.svg">
-<img height="30" alt="python" src="https://badges.aleen42.com/src/python.svg">
+<img height="30" alt="golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+<img height="30" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img height="30" alt="dot net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </div>
 <br />
@@ -34,7 +34,7 @@
 
 **DevOps:**  
 <div>
-<img height="30" alt="docker" src="https://badges.aleen42.com/src/docker.svg">
+<img height="30" alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 <img height="30" alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
 <img height="30" alt="jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
 </div>
