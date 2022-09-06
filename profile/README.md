@@ -37,13 +37,17 @@
 <div>
 <code><img height="30" alt="docker" src="https://badges.aleen42.com/src/docker.svg"></code>
 <code><img height="30" alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></code>
+<code><img height="30" alt="jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"></code>
 </div>
+
 <br />
 
 **Database:**  
 <div>
 <code><img height="30" alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img height="30" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></code>
+<code><img height="30" alt="sqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></code>
+
 </div>
 <br />
 
