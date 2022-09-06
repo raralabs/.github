@@ -5,33 +5,67 @@
 ## Tech Stack
 
 **Web:** 
-- [ReactJS](https://reactjs.org/)
-- [NextJS](https://nextjs.org/)
+<div>
+<code><img height="30" alt="react" src="https://badges.aleen42.com/src/react.svg"></code>
+<code><img height="30" alt="typescript" src="https://badges.aleen42.com/src/typescript.svg"></code>
+<code><img height="30" src="https://badges.aleen42.com/src/vitejs.svg"></code>
+<code><img height="30" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" ></code>
+</div>
+<br />
 
-**Mobile:**  
-[<img align="left" src="https://img.shields.io/badge/Flutter-black?style=plastic&logo=flutter&logoColor=1389FD" height=40>](https://flutter.dev/)
-<span></span>
-[<img align="left" src="https://img.shields.io/badge/React%20Native-black?style=plastic&logo=react" height=40>](https://reactnative.dev/)
-<span></span>
+
+**Mobile:** 
+<div style=" display:flex; gap:5px">
+<code><img align="left" src="https://img.shields.io/badge/Flutter-black?style=plastic&logo=flutter&logoColor=1389FD" height=30></code>
+
+<code>[<img align="left" src="https://img.shields.io/badge/React%20Native-black?style=plastic&logo=react" height=30>](https://reactnative.dev/)</code>
+</div>
+<br />
+
+
 
 **Backend:** 
-- Python
-- Golang
-- .Net
+<div>
+<code><img height="30" alt="golang" src="https://badges.aleen42.com/src/golang.svg"></code>
+<code><img height="30" alt="python" src="https://badges.aleen42.com/src/python.svg"></code>
+<code><img height="30" alt="dot net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+</div>
+<br />
+
 
 **DevOps:**  
-- Docker
-- Kubernetes
+<div>
+<code><img height="30" alt="docker" src="https://badges.aleen42.com/src/docker.svg"></code>
+<code><img height="30" alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></code>
+</div>
+<br />
 
 **Database:**  
-- [MySQL](https://www.mysql.com/)
-- [PostgreSQL](https://www.postgresql.org/)
+<div>
+<code><img height="30" alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></code>
+<code><img height="30" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></code>
+</div>
+<br />
+
+**Technologies:**  
+<div>
+<code><img height="30" alt="graphql" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"></code>
+<code><img height="30" alt="nx" src="https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white"></code>
+
+
+</div>
+<br />
+
+
+
 ## Location
 
 [Find Me](https://g.page/rara-labs?share)
+<br />
 
 ## Authors
 
 - [@prasid444](https://www.github.com/prasid444)
 - [@SushanShakya](https://www.github.com/SushanShakya)
+- [@bytesagar](https://www.github.com/bytesagar)
 
