@@ -27,36 +27,36 @@ We serve global customers by developing deep technology software products with s
 
 **WEB:** 
 <div style="display:flex;gap:10px">
-  <a href="https://g.co/kgs/43Zrmp" target="_blank"><img height="20" alt="react" src="https://badges.aleen42.com/src/react.svg"></a>
-  <a href="https://g.co/kgs/Jrs1v1" target="_blank"><img height="20" alt="typescript" src="https://badges.aleen42.com/src/typescript.svg"></a>
-  <a href="https://g.co/kgs/pR9aXC" target="_blank"><img height="20" src="https://badges.aleen42.com/src/vitejs.svg"></a>
-  <a href="https://g.co/kgs/PypJTn" target="_blank"><img height="20" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" ></a>
+  <a href="https://reactjs.org/" target="_blank"><img height="20" alt="react" src="https://badges.aleen42.com/src/react.svg"></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img height="20" alt="typescript" src="https://badges.aleen42.com/src/typescript.svg"></a>
+  <a href="https://vitejs.dev/" target="_blank"><img height="20" src="https://badges.aleen42.com/src/vitejs.svg"></a>
+  <a href="https://nextjs.org/" target="_blank"><img height="20" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" ></a>
 </div>
 
 <br />
 
 **MOBILE:** 
 <div style="display:flex;gap:10px">
-  <a href="https://g.co/kgs/B9FRZm" target="_blank"><img alt='flutter' src="https://img.shields.io/badge/Flutter-black?style=plastic&logo=flutter&logoColor=1389FD" height=20></a>
-  <a href="https://g.co/kgs/Ynf4Gj" target="_blank"><img alt='reactnative'  src="https://img.shields.io/badge/React%20Native-black?style=plastic&logo=react" height=20></a>
+  <a href="https://flutter.dev/" target="_blank"><img alt='flutter' src="https://img.shields.io/badge/Flutter-black?style=plastic&logo=flutter&logoColor=1389FD" height=20></a>
+  <a href="https://reactnative.dev/" target="_blank"><img alt='reactnative' src="https://img.shields.io/badge/React%20Native-black?style=plastic&logo=react" height=20></a>
 </div>
 
 <br />
 
 **BACKEND:** 
 <div style="display:flex;gap:10px">
-  <a href="https://g.co/kgs/3Tj8S2" target="_blank"><img height="20" alt="golang" src="https://badges.aleen42.com/src/golang.svg"></a>
-  <a href="https://g.co/kgs/9uXVb5" target="_blank"><img height="20" alt="python" src="https://badges.aleen42.com/src/python.svg"></a>
-  <a href="https://g.co/kgs/mtfgCG" target="_blank"><img height="20" alt="dot net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
+  <a href="https://go.dev/" target="_blank"><img height="20" alt="golang" src="https://badges.aleen42.com/src/golang.svg"></a>
+  <a href="https://www.python.org/" target="_blank"><img height="20" alt="python" src="https://badges.aleen42.com/src/python.svg"></a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img height="20" alt="dot net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
 </div>
 
 <br />
 
 **DEVOPS:**  
 <div style="display:flex;gap:10px">
-  <a href="https://g.co/kgs/wdMm1j" target="_blank"><img height="20" alt="docker" src="https://badges.aleen42.com/src/docker.svg"></a>
-  <a href="https://g.co/kgs/D4U3J8" target="_blank"><img height="20" alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
-  <a href="https://g.co/kgs/QCxesQ" target="_blank"><img height="20" alt="jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"></a>
+  <a href="https://www.docker.com/" target="_blank"><img height="20" alt="docker" src="https://badges.aleen42.com/src/docker.svg"></a>
+  <a href="https://kubernetes.io/" target="_blank"><img height="20" alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img height="20" alt="jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"></a>
 </div>
 
 <br />
@@ -64,17 +64,17 @@ We serve global customers by developing deep technology software products with s
 
 **DATABASE:**  
 <div style="display:flex;gap:10px">
-  <a href="https://g.co/kgs/bLZcV6" target="_blank"><img height="20" alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  <a href="https://g.co/kgs/nVgz9p" target="_blank"><img height="20" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-  <a href="https://g.co/kgs/CcUf3b" target="_blank"><img height="20" alt="sqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
-  <a href="https://g.co/kgs/3tVPos" target="_blank"><img height="20" alt="tidb" src="https://github.com/pingcap/tidb/raw/master/docs/logo_with_text.png"></a>
+  <a href="https://www.mysql.com/" target="_blank"><img height="20" alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img height="20" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+  <a href="https://www.sqlite.org/index.html" target="_blank"><img height="20" alt="sqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+  <a href="https://www.pingcap.com/tidb/" target="_blank"><img height="20" alt="tidb" src="https://github.com/pingcap/tidb/raw/master/docs/logo_with_text.png"></a>
 </div>
 
 <br />
 
 **TECHNOLOGIES:**  
 <div style="display:flex;gap:10px">
-  <a href="https://g.co/kgs/V8Hg1Y" target="_blank"><img height="20" alt="graphql" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>
+  <a href="https://graphql.org/" target="_blank"><img height="20" alt="graphql" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>
   <a href="https://nx.dev/" target="_blank"><img height="20" alt="nx" src="https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white"></a>
 </div>
 
