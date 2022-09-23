@@ -172,7 +172,7 @@ We serve global customers by developing deep technology software products with s
 
 <hr>
 
-## Our Location
+## Find Us
 
 [![image](https://user-images.githubusercontent.com/31175326/188585276-caa7eb8a-153f-4c95-b46f-90464c727818.png)](https://g.page/rara-labs?share)
 
@@ -180,10 +180,39 @@ We serve global customers by developing deep technology software products with s
 
 <hr>
 
-## Authors
+## Readme Contributors
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="#rara">
+        <img src="https://avatars.githubusercontent.com/prasid444?s=150&v=1">
+      </a>
+      <br>Prasid<br>Karki
+    </td>
+    <td align="center" width="120">
+      <a href="#rara">
+        <img src="https://avatars.githubusercontent.com/SushanShakya?s=150&v=1">
+      </a>
+      <br>Sushan<br>Shakya
+    </td>
+    <td align="center" width="120">
+      <a href="#rara">
+        <img src="https://avatars.githubusercontent.com/bytesagar?s=150&v=1">
+      </a>
+      <br>Sagar<br>Karki
+    </td>
+    <td align="center" width="120">
+      <a href="#rara">
+        <img src="https://avatars.githubusercontent.com/kcaashish?s=150&v=1">
+      </a>
+      <br>Ashish<br>KC
+    </td>
+    <td align="center" width="120">
+      <a href="#rara">
+        <img src="https://avatars.githubusercontent.com/devibhattaraii?s=150&v=1">
+      </a>
+      <br>Devi<br>Bhattarai
+    </td>
+  </tr>
+</table>
 
-- [@prasid444](https://www.github.com/prasid444)
-- [@SushanShakya](https://www.github.com/SushanShakya)
-- [@bytesagar](https://www.github.com/bytesagar)
-- [@kcaashish](https://www.github.com/kcaashish)
-- [@devibhattaraii](https://www.github.com/devibhattaraii)
