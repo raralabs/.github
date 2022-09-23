@@ -25,60 +25,150 @@ We serve global customers by developing deep technology software products with s
 
 ## Tech Stack
 
-**WEB:** 
-<div style="display:flex;gap:10px">
-  <a href="https://reactjs.org/" target="_blank"><img height="20" alt="react" src="https://badges.aleen42.com/src/react.svg"></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img height="20" alt="typescript" src="https://badges.aleen42.com/src/typescript.svg"></a>
-  <a href="https://vitejs.dev/" target="_blank"><img height="20" src="https://badges.aleen42.com/src/vitejs.svg"></a>
-  <a href="https://nextjs.org/" target="_blank"><img height="20" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" ></a>
-</div>
+> Web Tech
+<table>
+  <tr>
+    <td align="center" width="96>
+      <a href="#rara">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96>
+    <a href="#rara">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96>
+    <a href="#rara">
+      <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" />
+      </a>
+      <br>NextJS
+    </td>
+    <td align="center" width="96>
+      <a href="#rara">
+      <img src="https://avatars.githubusercontent.com/u/65625612?s=200&v=4" />
+      </a>
+      <br>ViteJs
+    </td>
+  </tr>
+</table>
 
-<br />
+> Mobile Tech
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#rara">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96>
+      <a href="#rara">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      </a>
+      <br>R. Native
+    </td>    
+  </tr>
+</table>
 
-**MOBILE:** 
-<div style="display:flex;gap:10px">
-  <a href="https://flutter.dev/" target="_blank"><img alt='flutter' src="https://img.shields.io/badge/Flutter-black?style=plastic&logo=flutter&logoColor=1389FD" height=20></a>
-  <a href="https://reactnative.dev/" target="_blank"><img alt='reactnative' src="https://img.shields.io/badge/React%20Native-black?style=plastic&logo=react" height=20></a>
-</div>
+> Backend
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#rara">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96>
+      <a href="#rara">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96>
+      <a href="#rara">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+      </a>
+      <br>.&nbsp;Net
+    </td>
+  </tr>
+</table>
 
-<br />
+> DevOps
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#rara">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96>
+      <a href="#rara">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+      </a>
+      <br>Kubernetes
+    </td> 
+    <td align="center" width="96>
+      <a href="#rara">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+      </a>
+      <br>Jenkins
+    </td>    
+       
+  </tr>
+</table>
 
-**BACKEND:** 
-<div style="display:flex;gap:10px">
-  <a href="https://go.dev/" target="_blank"><img height="20" alt="golang" src="https://badges.aleen42.com/src/golang.svg"></a>
-  <a href="https://www.python.org/" target="_blank"><img height="20" alt="python" src="https://badges.aleen42.com/src/python.svg"></a>
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img height="20" alt="dot net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
-</div>
+> Database
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#rara">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96>
+      <a href="#rara">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+      </a>
+      <br>Postgres
+    </td>        
+    <td align="center" width="96>
+      <a href="#rara">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+      </a>
+      <br>SQLite
+    </td>        
+    <td align="center" width="96>
+      <a href="#rara">
+        <img src="https://internals.tidb.io/uploads/default/original/1X/4fde143c268ccde514d0c93e420b8a2304fc2033.png" />
+      </a>
+      <br>TiDB
+    </td>    
+  </tr>
+</table>
 
-<br />
-
-**DEVOPS:**  
-<div style="display:flex;gap:10px">
-  <a href="https://www.docker.com/" target="_blank"><img height="20" alt="docker" src="https://badges.aleen42.com/src/docker.svg"></a>
-  <a href="https://kubernetes.io/" target="_blank"><img height="20" alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
-  <a href="https://www.jenkins.io/" target="_blank"><img height="20" alt="jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"></a>
-</div>
-
-<br />
-
-
-**DATABASE:**  
-<div style="display:flex;gap:10px">
-  <a href="https://www.mysql.com/" target="_blank"><img height="20" alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img height="20" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-  <a href="https://www.sqlite.org/index.html" target="_blank"><img height="20" alt="sqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
-  <a href="https://www.pingcap.com/tidb/" target="_blank"><img height="20" alt="tidb" src="https://github.com/pingcap/tidb/raw/master/docs/logo_with_text.png"></a>
-</div>
-
-<br />
-
-**TECHNOLOGIES:**  
-<div style="display:flex;gap:10px">
-  <a href="https://graphql.org/" target="_blank"><img height="20" alt="graphql" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>
-  <a href="https://nx.dev/" target="_blank"><img height="20" alt="nx" src="https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white"></a>
-</div>
-
-<br />
+> More Tech
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#rara">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+      </a>
+      <br>GraphQL
+    </td>
+    <td align="center" width="96>
+      <a href="#rara">
+        <img src="https://miro.medium.com/max/1048/0*8tu6dgB0zeyiz-vo.png" />
+      </a>
+      <br>NX
+    </td>    
+  </tr>
+</table>
 
 <hr>
 
