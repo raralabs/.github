@@ -145,7 +145,7 @@ We serve global customers by developing deep technology software products with s
     </td>        
     <td align="center" width="96>
       <a href="#rara">
-        <img src="https://internals.tidb.io/uploads/default/original/1X/4fde143c268ccde514d0c93e420b8a2304fc2033.png" />
+        <img src="https://avatars.githubusercontent.com/u/11855343?s=96&v=4" />
       </a>
       <br>TiDB
     </td>    
