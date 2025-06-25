@@ -213,6 +213,12 @@ We serve global customers by developing deep technology software products with s
       </a>
       <br>Devi<br>Bhattarai
     </td>
+    <td align="center" width="120">
+      <a href="#rara">
+        <img src="https://avatars.githubusercontent.com/u/34963600?v=4">
+      </a>
+      <br>Shaswat<br>Tiwari
+    </td>
   </tr>
 </table>
 
