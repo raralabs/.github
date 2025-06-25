@@ -42,7 +42,7 @@ We serve global customers by developing deep technology software products with s
     </td>
     <td align="center" width="96>
     <a href="#rara">
-      <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" />
+      <img src="https://camo.githubusercontent.com/c3635f27439ecdbf20e3cbf969c156f4040f10a0c8c836cf307d916dd8f806d4/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" />
       </a>
       <br>NextJS
     </td>
@@ -145,7 +145,7 @@ We serve global customers by developing deep technology software products with s
     </td>        
     <td align="center" width="96>
       <a href="#rara">
-        <img src="https://internals.tidb.io/uploads/default/original/1X/4fde143c268ccde514d0c93e420b8a2304fc2033.png" />
+        <img src="https://avatars.githubusercontent.com/u/11855343?s=96&v=4" />
       </a>
       <br>TiDB
     </td>    
@@ -212,6 +212,12 @@ We serve global customers by developing deep technology software products with s
         <img src="https://avatars.githubusercontent.com/devibhattaraii?s=150&v=1">
       </a>
       <br>Devi<br>Bhattarai
+    </td>
+    <td align="center" width="120">
+      <a href="#rara">
+        <img src="https://avatars.githubusercontent.com/u/34963600?v=4">
+      </a>
+      <br>Shaswat<br>Tiwari
     </td>
   </tr>
 </table>
